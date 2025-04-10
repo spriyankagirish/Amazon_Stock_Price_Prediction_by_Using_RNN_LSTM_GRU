@@ -30,3 +30,21 @@ This project focuses on predicting Amazon's stock prices using time-series deep 
 ### Conclusion:
 This project demonstrates the use of deep learning techniques such as RNN, GRU, and LSTM for time-series forecasting, specifically in the context of stock price prediction. Among the models, **LSTM** tends to outperform the basic RNN and GRU in terms of accuracy due to its ability to manage both short-term and long-term dependencies in sequential data. However, each model has its strengths and trade-offs in terms of complexity and training time.
 
+ ---
+
+### Note on Dataset Access
+
+To maintain data privacy and prevent misuse, the dataset used in this project is not uploaded directly to this repository.
+
+**If you're a recruiter  who would like to access the dataset**, please request access here: https://drive.google.com/drive/folders/1zqHP1-UkiJP_lRE74WBLz6-oKJCqylZf?usp=sharing
+
+Once approved, you’ll receive a link to the dataset via Google Drive within 24 hours.
+
+*This ensures project security while keeping it fully reproducible.*
+
+In Your Code (Notebook or Script):
+
+# Dataset not included in the public repo
+
+# Please request access using the link in the README to get the dataset
+
